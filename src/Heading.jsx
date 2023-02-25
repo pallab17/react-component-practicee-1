@@ -1,4 +1,3 @@
-
 import React from "react";
 function Heading() {
   const date = new Date();
@@ -29,3 +28,10 @@ function Heading() {
 }
 
 export default Heading;
+
+/*
+return 
+
+
+
+*/
